@@ -1,0 +1,4 @@
+. => current Project
+/ => immediate child
+// =>any child
+[1]=>index starts from 1
