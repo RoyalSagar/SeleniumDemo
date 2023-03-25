@@ -1,3 +1,12 @@
 1.loop statements
 2.collection contain method
 3.decision statements
+1.loop statements
+2.collection contain method
+3.decision statements
+1.loop statements
+2.collection contain method
+3.decision statements
+1.loop statements
+2.collection contain method
+3.decision statements
